@@ -2,7 +2,7 @@
 
 ```markdown
 ## Challenge
-Develop an application that manages and retrieves records, using RESTful endpoints with JSON data.
+Develop an application that manages and retrieves records through RESTful endpoints using JSON data.
 
 ## Tools and Technologies Used
 - Spring Initializr
